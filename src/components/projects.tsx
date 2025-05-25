@@ -14,7 +14,7 @@ const projects = [
     title: "Expense Manager",
     description:
       "A full-featured app made to manhge your expenses easily",
-    image: "/ExpM.png?height=400&width=600",
+    image: "/my_portfolio/ExpM.png?height=400&width=600",
     tags: ["Flutter", "Dart",],
     demoLink: "https://priyanshpaila.github.io/ExpenseManagerApp/",
     
@@ -22,7 +22,7 @@ const projects = [
   {
     title: "Task Management App",
     description: "A collaborative task management application with real-time updates and team collaboration features.",
-    image: "/Tm.png?height=400&width=600",
+    image: "/my_portfolio/Tm.png?height=400&width=600",
     tags: ["Express.js", "MongoDb", "Flutter", "JavaScript"],
     demoLink: "/coming-soon",
    
