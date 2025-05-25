@@ -26,7 +26,7 @@ export default function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <Image src="/about.jpeg" alt="About Me" width={600} height={600} className="w-full h-full object-cover" />
+          <Image src="https://priyanshpaila.github.io/my_portfolio/about.jpeg" alt="About Me" width={600} height={600} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent"></div>
           {/* <div className="absolute bottom-4 left-4 right-4 p-4 bg-background/20 backdrop-blur-md rounded-lg border border-border/50">
             <p className="font-medium">5+ years of experience in web development</p>
